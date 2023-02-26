@@ -57,6 +57,15 @@ https://replit.com/@SanjayPatel9/003varconstlet
   let a = 12;
   console.log(typeof a);
   
+  const dic = {
+  a:"Apple",
+  b:"Bat"
+  }
+  
+  console.log (dic.b)
+  console.log(dic[b])
+  Both will print same.
+  
   
 
 
