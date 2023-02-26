@@ -42,7 +42,22 @@ var was used pre es6, should avoid using this.
 https://replit.com/@SanjayPatel9/003varconstlet
 
 
-
+### Video 4: Data Types
+  NULL
+  NUMBER
+  SYMBOL
+  STRING
+  BOOLEAN
+  BIGINT
+  UNDEFINED
+  
+  Non Primitive data type - Object
+  
+  typeof any data type
+  let a = 12;
+  console.log(typeof a);
+  
+  
 
 
 
