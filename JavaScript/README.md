@@ -147,7 +147,7 @@ Prompt -- To get input from user
  let has block scope
  var has global scope
                      
-###Functions
+### Functions
 
                      
                      
