@@ -216,4 +216,8 @@ for(let key : marks) {
   if first string exists then it will be replaced with the 2nd one.
   
   
-                     
+  .concat
+  console.log(name.concat('is a friend of ', " Ajay", "kumar")
+  Any number of strings can be concated
+  
+  
