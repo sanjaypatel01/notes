@@ -161,5 +161,16 @@ const sum = (a, b) {
 return a+b
 }
                      
+var marks = {
+   "a" : 90,
+   "b" : 70
+}
                      
+for(int i=0; i < Object.keys(marks).length; i++) {
+  console.log(Object.keys(marks)[i] + "" + marks[Object.keys(marks)[i]])
+}
+Same as above 
+for(let key : marks) {
+  console.log(key + " : " + marks[key])
+}
                      
