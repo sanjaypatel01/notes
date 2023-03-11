@@ -67,6 +67,8 @@ https://replit.com/@SanjayPatel9/003varconstlet
   Both will print same.
   
   
+Exponential operator 
+4**3 = 64
 
 
 
