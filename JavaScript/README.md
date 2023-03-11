@@ -188,4 +188,32 @@ for(let key : marks) {
   let sentence = ` ${b1} 's last name is ${b2}`
   console.log(sentence)
   
+  
+  Escape sequence String
+  let fruit = 'ban\'ana'
+  
+  \n --- New line
+  \r --- Carriage return
+  \t --- Tab
+  
+  ### String Methods
+  
+  let name='sanjay'
+  console.log(name.length)
+  length is a property
+  console.log(name.toUpperCase())
+  console.log(name.toLowerCase())
+  
+  console.log(name.slice(2, 4))
+  startIndex included
+  endIndex excluded
+  
+  console.log(name.slice(2);
+  Starting index to end
+
+  let name = "Sanjay Kumar"
+  name.replace('Kumar', 'Patel')
+  if first string exists then it will be replaced with the 2nd one.
+  
+  
                      
