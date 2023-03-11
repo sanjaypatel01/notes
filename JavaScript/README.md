@@ -70,5 +70,37 @@ https://replit.com/@SanjayPatel9/003varconstlet
 Exponential operator 
 4**3 = 64
 
-
+  
+  If variables are int and string Type different.
+===.   > equal value and type
+  
+!==.  > not equal value or not equal type
+  
+  let a = 6;
+  let b = "6"
+  
+  Try to print 
+  a === b >  false
+  a !=== b > true
+  
+  
+  Logical operators
+  &&  > AND
+  ||   > OR
+  !    > Not 
+  
+  Bitwise Operators
+  & , |
+  
+  Comments
+  Use either // Single line 
+  or /*   */   Multiline comment
+  
+  
+  Conditional Operators
+  if ..
+  if .. else
+  if .. else if .. else
+  
+  
 
