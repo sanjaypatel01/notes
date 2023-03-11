@@ -156,6 +156,10 @@ function = functionName(a, b) {
 Execution
 functionName(5, 6)
                      
-
+Arrow function
+let sum = (a, b) {
+return a+b
+}
+                     
                      
                      
