@@ -148,6 +148,14 @@ Prompt -- To get input from user
  var has global scope
                      
 ### Functions
+ Declaration                    
+function = functionName(a, b) {
+   return ...                  
+}
+  
+Execution
+functionName(5, 6)
+                     
 
                      
                      
