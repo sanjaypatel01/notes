@@ -173,4 +173,19 @@ Same as above
 for(let key : marks) {
   console.log(key + " : " + marks[key])
 }
+  
+  
+  ### Strings
+  
+  let str = "sanjay"
+  console.log (str[0])
+  here str is also consider as array
+  
+  Tempplate literals (Modern Java Script)
+  let b1 = "sanjay";
+  let b2 = "kumar"
+  
+  let sentence = ` ${b1} 's last name is ${b2}`
+  console.log(sentence)
+  
                      
