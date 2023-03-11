@@ -220,4 +220,11 @@ for(let key : marks) {
   console.log(name.concat('is a friend of ', " Ajay", "kumar")
   Any number of strings can be concated
   
+  trim()
+  .charAt(index)
+  indexOf('str')
+  subString(startIndex, endIndexExcluded)
+  
+  Strings are immutable
+  
   
