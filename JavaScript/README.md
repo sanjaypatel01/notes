@@ -181,7 +181,7 @@ for(let key : marks) {
   console.log (str[0])
   here str is also consider as array
   
-  Tempplate literals (Modern Java Script) - using backtick `. This is also string interpolation
+  #### Tempplate literals (Modern Java Script) - using backtick `. This is also string interpolation
   let b1 = "sanjay";
   let b2 = "kumar"
   
@@ -220,11 +220,18 @@ for(let key : marks) {
   console.log(name.concat('is a friend of ', " Ajay", "kumar")
   Any number of strings can be concated
   
+Other String methods
+
   trim()
   .charAt(index)
   indexOf('str')
   subString(startIndex, endIndexExcluded)
+  startWith
+  endWith
   
   Strings are immutable
   
+  let friend = "Deepika"
+  friend[2] = 'R'; // Will not change the original string, No error also.
+  console.log(friend) ==> Deepika
   
