@@ -103,4 +103,50 @@ Exponential operator
   if .. else if .. else
   
   
+Alert - to give some message
+  alert('you are not logged in');
+  
+Prompt -- To get input from user
+  prompt("Enter your age : ");
+ Prompt value will always be string
+  typeof a
+  
+  
+  Conversion from String to Number 
+  int a = Number.parseInt(str);
+  
+  
+  Ternary Operator - ? :
+  
+  ;   -- is optional at the end of line
+  
+  Loops
+  for loop
+  for(let a=0; a < 5; a++){
+                     ---
+  }
+                     
+ for in loop
+   let obj = {
+   "Sanjay" : 90,
+   "Ajay" : 78
 
+   }
+  //here obj need not be iterable
+  for(let a in obj) {                 
+    console.log(a);
+     console.log(obj[a])
+  }
+                   
+//here obj need be iterable Array
+  for(let a of "sasnjay") {                 
+    console.log(a);
+ }
+ 
+                     
+ let has block scope
+ var has global scope
+                     
+
+                     
+                     
