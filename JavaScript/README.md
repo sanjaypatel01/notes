@@ -233,5 +233,6 @@ Other String methods
   
   let friend = "Deepika"
   friend[2] = 'R'; // Will not change the original string, No error also.
+  
   console.log(friend) ==> Deepika
   
